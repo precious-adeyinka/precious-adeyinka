@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Precious Adeyinka
+# Hi there 👋, I'm Precious Adeyinka
 
 - 🔭 I’m currently working on an MVP for a startup company
 - 🌱 I’m currently learning React Native (Mobile App Development), AI & ML, R, Java, Python and AWS
