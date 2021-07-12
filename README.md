@@ -14,3 +14,4 @@
 - Instagram - https://www.instagram.com/officialpreciousadeyinka
 - Linkedin - https://www.linkedin.com/in/precious-adeyinka
 - Twitter - https://www.twitter.com/preshadeyinka
+- I write tech things here - https://pflash.hashnode.dev/ and here too - https://medium.com/@precious_adeyinka
