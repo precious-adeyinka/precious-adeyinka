@@ -10,6 +10,7 @@
 - ⚡ Fun fact: **I can dance!**
 
 ### Hey, I'm really social, so you can find me on this cool apps too:
+- Portfolio - https://officialpreciousadeyinka.vercel.app
 - Facebook - https://www.facebook.com/officialpreciousadeyinka
 - Instagram - https://www.instagram.com/officialpreciousadeyinka
 - Linkedin - https://www.linkedin.com/in/precious-adeyinka
